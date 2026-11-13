@@ -1,0 +1,14 @@
+target/
+node_modules/
+node/
+package.json
+package-lock.json
+vite.config.ts
+vite.generated.ts
+tsconfig.json
+types.d.ts
+frontend/generated/
+src/main/frontend/generated/
+src/main/bundles/
+*.log
+.idea/
